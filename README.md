@@ -10,11 +10,11 @@
 # Resources
 
 - [Docs](https://docs.notional.finance/developer-documentation/how-to/leveraged-vaults)
-- [Leveraged Vaults @ 9f401e](https://github.com/notional-finance/leveraged-vaults/tree/9f401e6c92ee29f6e6599d123bb2f9a966b942c4)
+- [Leveraged Vaults @ TBD](https://github.com/notional-finance/leveraged-vaults/tree/9f401e6c92ee29f6e6599d123bb2f9a966b942c4)
 
 # Audit scope
 
-[Leveraged Vaults @ 9f401e](https://github.com/notional-finance/leveraged-vaults/tree/9f401e6c92ee29f6e6599d123bb2f9a966b942c4)
+[Leveraged Vaults @ TBD](https://github.com/notional-finance/leveraged-vaults/tree/9f401e6c92ee29f6e6599d123bb2f9a966b942c4)
 
 | Module     | File                                     | Code | Comments | Total Lines | Complexity / Line |
 | :--------- | :--------------------------------------- | ---: | -------: | ----------: | ----------------: |
