@@ -29,16 +29,16 @@ The following contracts in the [Vault Controller Core @ cf05d8](https://github.c
 
 All contracts in the [Leveraged Vaults @ 443911](https://github.com/notional-finance/leveraged-vaults/tree/44391136629bacb3a2b5a4576d478738af9ffbe4) repo except any contract in the `mocks` folder are in scope.
 
-| Module                                                                                                                          | File                  | Code | Comments | Total Lines | Complexity / Line |
-| :------------------------------------------------------------------------------------------------------------------------------ | :-------------------- | ---: | -------: | ----------: | ----------------: |
-| Adapters                                                                                                                        | BalancerV2Adapter.sol |   80 |        2 |          91 |              17.5 |
-| Adapters                                                                                                                        | CurveAdapter.sol      |   77 |        3 |          92 |              35.1 |
-| Adapters                                                                                                                        | UniV2Adapter.sol      |   45 |        2 |          53 |              15.6 |
-| Adapters                                                                                                                        | UniV3Adapter.sol      |   69 |        2 |          89 |              21.7 |
-| Adapters                                                                                                                        | ZeroExAdapter.sol     |   17 |        6 |          25 |                 0 |
-| Trading                                                                                                                         | TradeHandler.sol      |   30 |        7 |          41 |                 0 |
-| Trading                                                                                                                         | TradingModule.sol     |  188 |       38 |         257 |                 9 |
-| [Full table here](https://github.com/notional-finance/leveraged-vaults/tree/44391136629bacb3a2b5a4576d478738af9ffbe4/README.md) | ..                    |   .. |       .. |          .. |                .. |
+| Module                                                                                                                    | File                  | Code | Comments | Total Lines | Complexity / Line |
+| :------------------------------------------------------------------------------------------------------------------------ | :-------------------- | ---: | -------: | ----------: | ----------------: |
+| Adapters                                                                                                                  | BalancerV2Adapter.sol |   80 |        2 |          91 |              17.5 |
+| Adapters                                                                                                                  | CurveAdapter.sol      |   77 |        3 |          92 |              35.1 |
+| Adapters                                                                                                                  | UniV2Adapter.sol      |   45 |        2 |          53 |              15.6 |
+| Adapters                                                                                                                  | UniV3Adapter.sol      |   69 |        2 |          89 |              21.7 |
+| Adapters                                                                                                                  | ZeroExAdapter.sol     |   17 |        6 |          25 |                 0 |
+| Trading                                                                                                                   | TradeHandler.sol      |   30 |        7 |          41 |                 0 |
+| Trading                                                                                                                   | TradingModule.sol     |  188 |       38 |         257 |                 9 |
+| [Full table here](https://docs.google.com/spreadsheets/d/11npnqTw9av6tfAvdmTv8Zb0O0m1AA0qWwsVzR51YVdg/edit#gid=678769595) | ..                    |   .. |       .. |          .. |                .. |
 
 # About Notional
 
