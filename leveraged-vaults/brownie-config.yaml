@@ -1,0 +1,24 @@
+compiler:
+  solc:
+    optimizer:
+      enabled: true
+      runs: 200
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0"
+      - "@openzeppelin-upgradeable=OpenZeppelin/openzeppelin-contracts-upgradeable@4.6.0"
+networks:
+  default: development
+
+networks:
+  default: mainnet-fork
+  mainnet-fork:
+    cmd_settings:
+      fork_block: 15447569
+  
+reports:
+  exclude_paths:
+    - interfaces/**/*.*
+
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.6.0
+  - OpenZeppelin/openzeppelin-contracts-upgradeable@4.6.0
