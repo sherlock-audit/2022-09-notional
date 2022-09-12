@@ -12,6 +12,7 @@
 - [Docs](https://docs.notional.finance/developer-documentation/how-to/leveraged-vaults)
 - [Vault Controller Core @ cf05d8](https://github.com/notional-finance/contracts-v2/tree/cf05d8e3e4e4feb0b0cef2c3f188c91cdaac38e0)
 - [Leveraged Vaults @ 443911](https://github.com/notional-finance/leveraged-vaults/tree/44391136629bacb3a2b5a4576d478738af9ffbe4)
+- [Three Code Walkthrough Videos](https://www.youtube.com/watch?v=lbnZoVmpjAw&list=PLnKdM8f8QEJ152xf7TprecUOXmF7EMDEB&index=1)
 
 # Audit scope
 
