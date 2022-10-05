@@ -28,7 +28,7 @@ The following contracts in the [Vault Controller Core @ cf05d8](https://github.c
 
 ## Leveraged Vaults
 
-All contracts in the [Leveraged Vaults @ 443911](https://github.com/notional-finance/leveraged-vaults/tree/44391136629bacb3a2b5a4576d478738af9ffbe4) repo except any contract in the `mocks` folder are in scope.
+All contracts below in the [Leveraged Vaults @ 443911](https://github.com/notional-finance/leveraged-vaults/tree/44391136629bacb3a2b5a4576d478738af9ffbe4) repo except any contract in the `mocks` folder are in scope.
 
 | Module                                                                                                                    | File                  | Code | Comments | Total Lines | Complexity / Line |
 | :------------------------------------------------------------------------------------------------------------------------ | :-------------------- | ---: | -------: | ----------: | ----------------: |
